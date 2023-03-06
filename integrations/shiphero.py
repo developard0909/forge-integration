@@ -34,6 +34,7 @@ class Shiphero(object):
 
     # Login of Shiphero    
     def shiphero_login(self):
+        
         auth_address = {
             "username": "supertopdev@gmail.com",
             "password": "P@ssw0rd"
