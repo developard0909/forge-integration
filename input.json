@@ -1,0 +1,26 @@
+{
+    "type":"foundry.product",
+    "foundry master sku":"F-TST-0010",
+    "netsuite sku":"F-TST-0010",
+    "name":"Foundry Test Brand Widget #10",
+    "brand":{
+      "id":0,
+      "brand name":"Foundry Test Brand",
+      "brand code":"TST"
+    },
+    "listing skus":[
+      {
+        "sales channel":"Shopify",
+        "shopify sku":"Fj-TST-0010-SHP"
+      },
+      {
+        "sales channel":"Amazon",
+        "amazon sku":"blah blah",
+        "amazon asin":"B389843483D"
+      }
+    ],
+    "parent_products":[
+      "F-TST-0005",
+      "Ignore this for now"
+    ]
+}
